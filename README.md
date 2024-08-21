@@ -89,5 +89,5 @@ When a user clicks on the Filter Good Dogs button, two things should happen:
 - The button's text should change from "Filter good dogs: OFF" to "Filter good
   dogs: ON", or vice versa.
 - If the button now says "ON" (meaning the filter is on), then the Dog Bar
-  should only show pups whose isGoodDog attribute is true. If the filter is off,
+  should only show pups whose isGoodDog  is true. If the filter is off,
   the Dog Bar should show all pups (like normal).
